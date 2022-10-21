@@ -12,10 +12,9 @@ I will list the things that I love very much...
 - fun :speak_no_evil: :v:
 - And of course programming :computer: :sweat_drops:
 
+|***My usual workplace*** :blue_heart: | ***A few of my tricks!*** :skull:|
+
 ![beautiful](https://psv4.userapi.com/c236331/u89844632/docs/d44/e809f9053eeb/photo_53529395639134294861_y.jpg?extra=6Wr_VNYXD5gzPdfgi93Ut2yLP6aahMCA1t_CVYDPZ4_bw3xcP2z_04JOgrIStlgDqAibpdCWiUMZCJtxn9erqbf9IP-Xz4Sf-v2R8P6sz9LuGC6ycw6glA1BiHM71koQKNk31migLuqhmbtHyhiajXE, "I do this every day after classes at the university")
-
-***A few of my tricks!*** :skull:
-
 ![skate](https://psv4.userapi.com/c237031/u89844632/docs/d56/de8b91f3b95e/ca86cfe9-f0c4-429e-9e61-6dc534ea8399_1.gif?extra=vkjnPDZrFKcWQ_8rAgoi8MTtFCFQr9N5SMbuJ685nOflmhh_N0GlX0KMLFELoTbisOSQItOnNisJFWNleQQSe9PKZ57Vn7ilRFPo20XKAZ6F2luoOi_M0_INqaCG3csysixeY4--_jSlIJsVwLxQKg, "360 flip")
 
 ___
