@@ -23,8 +23,8 @@ ___
 
 **Uni/C#**
 
-    At the university we study the c# programming language (Windows Forms). But I don't want to get attached to Windows. Despite this, I started getting my first money from programming at the university. I did tests, laboratory work. Now I'm doing term papers, but less and less often, as I'm trying very hard to learn Kotlin and the Android SDK.
+At the university we study the c# programming language (Windows Forms). But I don't want to get attached to Windows. Despite this, I started getting my first money from programming at the university. I did tests, laboratory work. Now I'm doing term papers, but less and less often, as I'm trying very hard to learn Kotlin and the Android SDK.
 
 **Kotlin**
 
-    At the moment I am studying Kotlin at the JetBrains Academy (Trak Kotlin development). [I'm on JetBrains Academy](https://hyperskill.org/profile/234127706). My priority is to become an android developer.
+At the moment I am studying Kotlin at the JetBrains Academy (Trak Kotlin development). [I'm on JetBrains Academy](https://hyperskill.org/profile/234127706). My priority is to become an android developer.
