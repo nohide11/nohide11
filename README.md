@@ -23,7 +23,7 @@ ___
 
 **Uni/C#**
 
-At the university we study the c# programming language (Windows Forms). But I don't want to get attached to Windows. Despite this, I started getting my first money from programming at the university. I did tests, laboratory work. Now I'm doing term papers, but less and less often, as I'm trying very hard to learn Kotlin and the Android SDK.
+At the university we study the c# programming language (Windows Forms). But I don't want to get attached to Windows. Despite this, I started getting my first money from programming at the university. I did tests, laboratory work My priority is to become an android developer.. Now I'm doing term papers, but less and less often, as I'm trying very hard to learn Kotlin and the Android SDK.
 
 **Kotlin**
 
